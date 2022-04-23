@@ -1,10 +1,6 @@
 this application allows user to
 
-# This is my title
-
-## This is a subtitle
-
-### This is a subsubtitle
+# Generator README.md
 
 ## Table of contents
 
@@ -19,6 +15,8 @@ this application allows user to
 - [Questions](#questions)
 
 ## Description
+
+the application allows user to get a completed README.md after answering a few questions about their project.
 
 ## Installation
 
