@@ -37,13 +37,13 @@ function generateMarkdown(data) {
   ## Description
   ${data.Description}
   ## Installation
-
+  ${data.Installation}
   ## Usage
-
+  ${data.Usage}
   ## Tests
-
+  ${data.Tests}
   ## Questions
-
+  ${data.Questions}
 `;
 }
 
