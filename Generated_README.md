@@ -2,7 +2,7 @@
   
   
   
-  # dwfe
+  # READMEGEN
 
   ## Table of contents
 
@@ -17,12 +17,12 @@
   - [Questions](#questions)
 
   ## Description
-  hbtd
+  aplication uses node . js to create readmes
   ## Installation
-
+  npm i
   ## Usage
-
+  no
   ## Tests
-
+  undefined
   ## Questions
-
+  undefined

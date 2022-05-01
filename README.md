@@ -20,8 +20,11 @@ the application allows user to get a completed README.md after answering a few q
 
 ## Installation
 
-## Useage
+## Usage
 
 ## Tests
+
+walkthrough of how to use the application
+https://youtu.be/tggM-3p_yN0
 
 ## Questions
